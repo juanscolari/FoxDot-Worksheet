@@ -28,7 +28,7 @@ print(SynthDefs)
 
 # For now we'll just use the "pads" instrument.
 
-# Most instructions are put inside the bracket, but some actions are done uing functions.
+# Most instructions are put inside the bracket, but some actions are done using functions.
 # e.g. to stop a player, we "call" the stop function by typing the name, then a dot, followed by
 # the name of the action and then brackets.
 
